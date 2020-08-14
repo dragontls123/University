@@ -1,0 +1,571 @@
+12612030	Practical English B2	1	금5 ,금6	Brandon Magnuson
+11388008	과학기술글쓰기 	2	화5 ,화6 ,화7	신윤경
+12753019	Practical English B4	1	수5 ,수6	Scott Wayne Kines
+9857004	Speaking Practice B2	1	월5 ,월6	Jude Zacchaeus Wilson
+9730009	Speaking Practice D1	1	금2 ,금3	유정윤
+9864005	Speaking Practice D3	1	월2 ,월3	Anthony Bale
+11366007	역사와 상상력	2	목1 ,목2	김소영
+9857021	Speaking Practice B2	1	목7 ,목8	Brandon Magnuson
+12612038	Practical English B2	1	목5 ,목6	BENADE DANICKE
+12755004	Practical English D4	1	수7 ,수8	Christina Meridith Bromberg
+12406018	논리적 사고	2	금5 ,금6	권기환
+12612086	Practical English B2	1	월5 ,월6	BUSA JI H
+11329011	예술과 철학	2	월9 ,월10	한상연
+9857024	Speaking Practice B2	1	월7 ,월8	Brandon Magnuson
+10372005	로봇공학 	3	월5 ,월6 ,월7 ,월8	강상우
+12612070	Practical English B2	1	목2 ,목3	Virgilyn Arano Han
+12613001	Practical English C2	1	월2 ,월3	Angelo Apostolakis
+12611001	Practical English A2	1	월2 ,월3	BUSA JI H
+12612094	Practical English B2	1	화7 ,화8	Michael Andrew Wesorick
+11371022	창조와 몰입	2	금3 ,금4	전동진
+11670051	한국사	2	월3 ,월4	김미경
+12612021	Practical English B2	1	월2 ,월3	Brandon Magnuson
+12753016	Practical English B4	1	월7 ,월8	Scott Wayne Kines
+11670046	한국사	2	수1 ,수2	김윤정
+9857006	Speaking Practice B2	1	화5 ,화6	Jude Zacchaeus Wilson
+12753026	Practical English B4	1	금7 ,금8	Joseph E. Tetrick
+11365046	창의적 고전읽기	2	월3 ,월4	이민정
+9863011	Speaking Practice D2	1	수7 ,수8	Darren Yakey
+9730011	Speaking Practice D1	1	화7 ,화8	James Edmund Pullen
+11932001	기호와 인지	2	화5 ,화6	백경선
+12410022	창의적 사고	2	금3 ,금4	허주연
+12752020	Practical English A4	1	월7 ,월8	Lawrence Minton
+9970004	컴퓨터네트워크 및 실습 	3	화2 ,화3 ,수2 ,수3	유준
+13120002	머신러닝 	3	수5 ,수6 ,수7 ,수8	노웅기
+12406022	논리적 사고	2	금3 ,금4	이규완
+5198011	인간심리의이해 	2	수1 ,수2	이수연
+13000028	창의적 사고와 말하기	2	월3 ,월4	조윤경
+9864008	Speaking Practice D3	1	목7 ,목8	Kevin John Leeder
+11670032	한국사	2	화5 ,화6	이하나
+9836001	경제학개론	2	월1 ,월2	서미숙
+11366008	역사와 상상력	2	화1 ,화2	이하나
+11365029	창의적 고전읽기	2	화3 ,화4	전도현
+11329001	예술과 철학	2	화5 ,화6	한상연
+13000017	창의적 사고와 말하기	2	수1 ,수2	조윤경
+11388022	과학기술글쓰기	2	화1 ,화2 ,화3	신윤경
+12612053	Practical English B2	1	월7 ,월8	James Edmund Pullen
+11371008	창조와 몰입	2	화1 ,화2	이상복
+12612076	Practical English B2	1	금7 ,금8	Isaac Alexander Kerson
+13014002	기업과 리더십 	2	화3 ,화4	김원
+5198001	인간심리의이해 	2	화5 ,화6	박효진
+9857005	Speaking Practice B2	1	화2 ,화3	Jude Zacchaeus Wilson
+12612057	Practical English B2	1	수5 ,수6	James Edmund Pullen
+11371046	창조와 몰입	2	월9 ,월10	허윤회
+9730003	Speaking Practice D1	1	화2 ,화3	유정윤
+11388021	과학기술글쓰기	2	화1 ,화2 ,화3	이정아
+12612063	Practical English B2	1	월2 ,월3	Virgilyn Arano Han
+12755008	Practical English D4	1	금5 ,금6	Christina Meridith Bromberg
+9730007	Speaking Practice D1	1	목2 ,목3	유정윤
+12612047	Practical English B2	1	목2 ,목3	Hannah Yoo
+12406028	논리적 사고	2	월3 ,월4	이재환
+12407014	사고와 표현	2	수3 ,수4	이현승
+11494001	소프트웨어구현패턴 	3	수3 ,수4 ,금5 ,금6	이주형
+9730004	Speaking Practice D1	1	화5 ,화6	유정윤
+12612043	Practical English B2	1	화2 ,화3	Hannah Yoo
+11388013	과학기술글쓰기	2	월5 ,월6 ,월7	이상숙
+12753014	Practical English B4	1	월2 ,월3	Scott Wayne Kines
+12753025	Practical English B4	1	금5 ,금6	Joseph E. Tetrick
+9836003	경제학개론	2	월5 ,월6	서미숙
+9858004	Speaking Practice B3	1	화5 ,화6	Nathan Dennis Mangsen
+13000022	창의적 사고와 말하기	2	금3 ,금4	조윤경
+12406007	논리적 사고 	2	목1 ,목2	심소영
+9863010	Speaking Practice D2	1	수5 ,수6	Darren Yakey
+12612049	Practical English B2	1	금2 ,금3	Hannah Yoo
+12612018	Practical English B2	1	목5 ,목6	Wendy Marie Alexander
+12614009	Practical English D2	1	목5 ,목6	Sarah Jane Beresford
+11371017	창조와 몰입	2	수1 ,수2	이재환
+11365022	창의적 고전읽기	2	금3 ,금4	최정혜
+11932007	기호와 인지	2	화7 ,화8	백경선
+9969001	데이터베이스 및 실습 	3	목5 ,목6 ,금1 ,금2	노웅기
+13000007	창의적 사고와 말하기	2	목1 ,목2	권승태
+9969005	데이터베이스 및 실습 	3	월3 ,월4 ,수3 ,수4	민연아
+5198007	인간심리의이해 	2	화7 ,화8	박효진
+12752009	Practical English A4	1	목2 ,목3	Lawrence Minton
+12612003	Practical English B2	1	화2 ,화3	Amy Redding
+12614008	Practical English D2	1	목2 ,목3	Sarah Jane Beresford
+11366028	역사와 상상력	2	월3 ,월4	김윤정
+9728007	Speaking Practice B1	1	목5 ,목6	송미영
+12754003	Practical English C4	1	목7 ,목8	David Webster
+12407022	사고와 표현	2	금3 ,금4	이정아
+12752015	Practical English A4	1	월5 ,월6	Christian Vago
+12611021	Practical English A2	1	목7 ,목8	박현아
+12613011	Practical English C2	1	수5 ,수6	Kevin John Leeder
+12753050	Practical English B4	1	수5 ,수6	Jonathan Austin Stern
+12612089	Practical English B2	1	목5 ,목6	BUSA JI H
+12612031	Practical English B2	1	월2 ,월3	BENADE DANICKE
+9863001	Speaking Practice D2	1	금2 ,금3	Nathan Dennis Mangsen
+11494005	소프트웨어구현패턴 	3	목1 ,목2 ,목3 ,목4	노웅기
+12211001	중급 C 언어 	2	화8 ,화9 ,화10	양순옥
+11494002	소프트웨어구현패턴 	3	목7 ,목8 ,금7 ,금8	이주형
+9864004	Speaking Practice D3	1	목7 ,목8	Anthony Bale
+12613005	Practical English C2	1	수2 ,수3	Angelo Apostolakis
+12613014	Practical English C2	1	월7 ,월8	Kevin John Leeder
+12752010	Practical English A4	1	목5 ,목6	Lawrence Minton
+12612104	Practical English B2	1	목5 ,목6	Rachel Lynn Stotts
+12410046	창의적 사고	2	금9 ,금10	조선희
+12752004	Practical English A4	1	화5 ,화6	Lawrence Minton
+12611027	Practical English A2	1	월7 ,월8	박현아
+12612072	Practical English B2	1	목7 ,목8	Virgilyn Arano Han
+11388004	과학기술글쓰기 	2	금1 ,금2 ,금3	김진호
+9863005	Speaking Practice D2	1	월7 ,월8	Darren Yakey
+11670060	한국사 	2	금3 ,금4	이현숙
+9863003	Speaking Practice D2	1	월2 ,월3	Darren Yakey
+11670012	한국사	2	금3 ,금4	황묘희
+12612059	Practical English B2	1	목5 ,목6	James Edmund Pullen
+11670008	한국사	2	화7 ,화8	신수정
+11388028	과학기술글쓰기	2	목5 ,목6 ,목7	류수린
+12410028	창의적 사고	2	월3 ,월4	임동진
+12612013	Practical English B2	1	화2 ,화3	Wendy Marie Alexander
+9728012	Speaking Practice B1	1	화7 ,화8	Amy Redding
+12614001	Practical English D2	1	월2 ,월3	Sarah Jane Beresford
+12612092	Practical English B2	1	월7 ,월8	Michael Andrew Wesorick
+12612101	Practical English B2	1	월5 ,월6	Rachel Lynn Stotts
+12612068	Practical English B2	1	수2 ,수3	Virgilyn Arano Han
+12753021	Practical English B4	1	목2 ,목3	Scott Wayne Kines
+12613008	Practical English C2	1	목5 ,목6	Angelo Apostolakis
+11371034	창조와 몰입	2	월1 ,월2	허윤회
+12753058	Practical English B4	1	목5 ,목6	Patrick T. Artz
+11388017	과학기술글쓰기	2	목5 ,목6 ,목7	김진호
+12614007	Practical English D2	1	수2 ,수3	Sarah Jane Beresford
+12753002	Practical English B4	1	월5 ,월6	WILLIAMS JOHN LINCOLN
+9858003	Speaking Practice B3	1	화2 ,화3	Nathan Dennis Mangsen
+9730013	Speaking Practice D1	1	목7 ,목8	James Edmund Pullen
+12752002	Practical English A4	1	월5 ,월6	Lawrence Minton
+12753051	Practical English B4	1	수7 ,수8	Jonathan Austin Stern
+12612005	Practical English B2	1	수2 ,수3	Amy Redding
+9836002	경제학개론	2	월3 ,월4	서미숙
+12407007	사고와 표현 	2	목1 ,목2	정우진
+12612067	Practical English B2	1	화7 ,화8	Virgilyn Arano Han
+9730005	Speaking Practice D1	1	수2 ,수3	유정윤
+12407029	사고와 표현	2	화3 ,화4	김경화
+12614004	Practical English D2	1	화2 ,화3	Sarah Jane Beresford
+10176002	컴퓨터그래픽스 	3	화7 ,화8 ,목7 ,목8	이상웅
+11388006	과학기술글쓰기	2	화1 ,화2 ,화3	최성실
+12408032	가천리더십 	2	금7 ,금8	송진구
+11388023	과학기술글쓰기	2	화1 ,화2 ,화3	이현승
+12753036	Practical English B4	1	월5 ,월6	Dwaine Charles Tinling
+11365048	창의적 고전읽기 	2	수5 ,수6	박성지
+12611017	Practical English A2	1	금5 ,금6	Portia Fay Gray
+9857023	Speaking Practice B2	1	화7 ,화8	Brandon Magnuson
+60012001	논리적 사고 	2	금6 ,금7 ,금8	이규완
+12753045	Practical English B4	1	목9 ,목10	Michael Andrew Wesorick
+11670030	한국사	2	목5 ,목6	김소영
+12612007	Practical English B2	1	목2 ,목3	Amy Redding
+9857008	Speaking Practice B2	1	수5 ,수6	Jude Zacchaeus Wilson
+11670019	한국사	2	목3 ,목4	장인모
+9728004	Speaking Practice B1	1	화7 ,화8	송미영
+12612009	Practical English B2	1	금2 ,금3	Amy Redding
+11388002	과학기술글쓰기	2	월1 ,월2 ,월3	김기복
+12612027	Practical English B2	1	목2 ,목3	Brandon Magnuson
+12406017	논리적 사고	2	수1 ,수2	지혜경
+12755005	Practical English D4	1	목5 ,목6	Christina Meridith Bromberg
+13000034	창의적 사고와 말하기	2	월1 ,월2	조윤경
+12753010	Practical English B4	1	목5 ,목6	WILLIAMS JOHN LINCOLN
+12408001	가천리더십 	2	월3 ,월4	송진구
+5707007	삶과철학 	2	화7 ,화8	김기복
+12611015	Practical English A2	1	목5 ,목6	Portia Fay Gray
+9857012	Speaking Practice B2	1	월5 ,월6	Dean Ronald Jorgensen
+11366014	역사와 상상력	2	수3 ,수4	조병학
+12410014	창의적 사고	2	수3 ,수4	남윤정
+12612066	Practical English B2	1	화5 ,화6	Virgilyn Arano Han
+12612055	Practical English B2	1	화5 ,화6	James Edmund Pullen
+12612033	Practical English B2	1	화2 ,화3	BENADE DANICKE
+12612054	Practical English B2	1	화2 ,화3	James Edmund Pullen
+12612082	Practical English B2	1	수7 ,수8	Isaac Alexander Kerson
+12612107	Practical English B2	1	금7 ,금8	BENADE DANICKE
+12612058	Practical English B2	1	목2 ,목3	James Edmund Pullen
+12611010	Practical English A2	1	화7 ,화8	Portia Fay Gray
+9858002	Speaking Practice B3	1	월5 ,월6	Nathan Dennis Mangsen
+9730010	Speaking Practice D1	1	금5 ,금6	유정윤
+12406025	논리적 사고	2	금1 ,금2	권기환
+12754013	Practical English C4	1	목2 ,목3	Christian Vago
+10372001	로봇공학 	3	월5 ,월6 ,월7 ,월8	정용주
+12753040	Practical English B4	1	수5 ,수6	Dwaine Charles Tinling
+12612080	Practical English B2	1	화7 ,화8	Isaac Alexander Kerson
+11365025	창의적 고전읽기	2	금1 ,금2	최정혜
+12754009	Practical English C4	1	월7 ,월8	David Webster
+9857011	Speaking Practice B2	1	월2 ,월3	Dean Ronald Jorgensen
+12612090	Practical English B2	1	금5 ,금6	BUSA JI H
+11365014	창의적 고전읽기	2	수3 ,수4	이상숙
+12612065	Practical English B2	1	화2 ,화3	Virgilyn Arano Han
+12753032	Practical English B4	1	화7 ,화8	Joseph E. Tetrick
+12613015	Practical English C2	1	목5 ,목6	Kevin John Leeder
+12612012	Practical English B2	1	월5 ,월6	Wendy Marie Alexander
+11388016	과학기술글쓰기 	2	금5 ,금6 ,금7	김진호
+12612044	Practical English B2	1	화5 ,화6	Hannah Yoo
+9728003	Speaking Practice B1	1	화5 ,화6	송미영
+11365008	창의적 고전읽기	2	화1 ,화2	전도현
+11365028	창의적 고전읽기 	2	화3 ,화4	김규진
+12612088	Practical English B2	1	수5 ,수6	BUSA JI H
+12406008	논리적 사고 	2	화1 ,화2	이재환
+11365017	창의적 고전읽기	2	수1 ,수2	박성지
+11393008	생명과 나눔	2	화7 ,화8	강수경
+12612046	Practical English B2	1	수5 ,수6	Hannah Yoo
+11393039	생명과 나눔	2	월5 ,월6	계승희
+12753057	Practical English B4	1	수5 ,수6	Patrick T. Artz
+12753003	Practical English B4	1	화2 ,화3	WILLIAMS JOHN LINCOLN
+12753041	Practical English B4	1	수7 ,수8	Dwaine Charles Tinling
+11366025	역사와 상상력	2	금1 ,금2	김미경
+12406046	논리적 사고	2	수9 ,수10	지혜경
+12753007	Practical English B4	1	수5 ,수6	WILLIAMS JOHN LINCOLN
+12612034	Practical English B2	1	화5 ,화6	BENADE DANICKE
+12755002	Practical English D4	1	화5 ,화6	Christina Meridith Bromberg
+9863012	Speaking Practice D2	1	목2 ,목3	Darren Yakey
+12753011	Practical English B4	1	목7 ,목8	WILLIAMS JOHN LINCOLN
+10176001	컴퓨터그래픽스 	3	화7 ,화8 ,목7 ,목8	조정찬
+9858006	Speaking Practice B3	1	수5 ,수6	Nathan Dennis Mangsen
+12613007	Practical English C2	1	목2 ,목3	Angelo Apostolakis
+11670025	한국사	2	월3 ,월4	신수정
+12612004	Practical English B2	1	화5 ,화6	Amy Redding
+12753009	Practical English B4	1	목2 ,목3	WILLIAMS JOHN LINCOLN
+12754004	Practical English C4	1	목5 ,목6	David Webster
+9730012	Speaking Practice D1	1	수7 ,수8	James Edmund Pullen
+11365018	창의적 고전읽기	2	금5 ,금6	최정혜
+11371018	창조와 몰입	2	금5 ,금6	전동진
+9730008	Speaking Practice D1	1	목5 ,목6	유정윤
+11388012	과학기술글쓰기	2	금1 ,금2 ,금3	신윤경
+12408021	가천리더십 	2	월1 ,월2	송진구
+12753022	Practical English B4	1	금2 ,금3	Scott Wayne Kines
+9857026	Speaking Practice B2	1	금7 ,금8	Jonathan Austin Stern
+12753043	Practical English B4	1	목5 ,목6	Dwaine Charles Tinling
+11388027	과학기술글쓰기	2	목5 ,목6 ,목7	최성실
+9728016	Speaking Practice B1	1	금2 ,금3	Virgilyn Arano Han
+11388033	과학기술글쓰기	2	수5 ,수6 ,수7	김기복
+12407008	사고와 표현	2	화1 ,화2	김경화
+11393015	생명과 나눔 	2	수3 ,수4	홍을표
+11388019	과학기술글쓰기	2	수5 ,수6 ,수7	최성실
+12753023	Practical English B4	1	금5 ,금6	Scott Wayne Kines
+11388009	과학기술글쓰기	2	금1 ,금2 ,금3	변정민
+12611012	Practical English A2	1	수5 ,수6	Portia Fay Gray
+12612050	Practical English B2	1	금5 ,금6	Hannah Yoo
+9857022	Speaking Practice B2	1	수7 ,수8	Brandon Magnuson
+9864002	Speaking Practice D3	1	화7 ,화8	Anthony Bale
+9857007	Speaking Practice B2	1	수2 ,수3	Jude Zacchaeus Wilson
+11329012	예술과 철학	2	목1 ,목2	한상연
+9863018	Speaking Practice D2	1	금5 ,금6	Darren Yakey
+9863008	Speaking Practice D2	1	화7 ,화8	Darren Yakey
+13014001	기업과 리더십 	2	화1 ,화2	김원
+12612084	Practical English B2	1	목7 ,목8	Isaac Alexander Kerson
+12753005	Practical English B4	1	화7 ,화8	WILLIAMS JOHN LINCOLN
+11393030	생명과 나눔	2	목5 ,목6	박수민
+11388015	과학기술글쓰기	2	수1 ,수2 ,수3	이민정
+13000018	창의적 사고와 말하기	2	금5 ,금6	조윤경
+12753044	Practical English B4	1	목7 ,목8	Dwaine Charles Tinling
+13014003	기업과 리더십 	2	화7 ,화8	김원
+9863013	Speaking Practice D2	1	목5 ,목6	Darren Yakey
+12634001	모바일 웹 프로그래밍 	2	목8 ,목9 ,목10	신성
+11670021	한국사	2	목1 ,목2	장인모
+12753029	Practical English B4	1	수5 ,수6	Joseph E. Tetrick
+12407047	사고와 표현 	2	화5 ,화6	김규진
+9858009	Speaking Practice B3	1	수7 ,수8	Christian Vago
+5707011	삶과철학 	2	화1 ,화2	김기복
+12754006	Practical English C4	1	수5 ,수6	David Webster
+12612011	Practical English B2	1	월2 ,월3	Wendy Marie Alexander
+11670034	한국사	2	금1 ,금2	황묘희
+11365049	창의적 고전읽기	2	수5 ,수6	장정수
+12753018	Practical English B4	1	수2 ,수3	Scott Wayne Kines
+12612041	Practical English B2	1	월2 ,월3	Hannah Yoo
+9864007	Speaking Practice D3	1	목2 ,목3	Kevin John Leeder
+12612014	Practical English B2	1	화5 ,화6	Wendy Marie Alexander
+13000029	창의적 사고와 말하기	2	화3 ,화4	조윤경
+12612062	Practical English B2	1	금7 ,금8	James Edmund Pullen
+12612051	Practical English B2	1	월2 ,월3	James Edmund Pullen
+9968004	알고리즘 	3	화5 ,화6 ,목5 ,목6	이상웅
+12612037	Practical English B2	1	목2 ,목3	BENADE DANICKE
+11371029	창조와 몰입	2	화3 ,화4	전동진
+9859003	Speaking Practice B4	1	수7 ,수8	David Webster
+12613017	Practical English C2	1	월5 ,월6	Kevin John Leeder
+12612002	Practical English B2	1	월5 ,월6	Amy Redding
+11670013	한국사	2	수7 ,수8	이은희
+12612064	Practical English B2	1	월5 ,월6	Virgilyn Arano Han
+9865003	Speaking Practice D4	1	화7 ,화8	Kevin John Leeder
+9728008	Speaking Practice B1	1	목7 ,목8	송미영
+12752011	Practical English A4	1	목7 ,목8	Lawrence Minton
+12611024	Practical English A2	1	수5 ,수6	박현아
+12612077	Practical English B2	1	월5 ,월6	Isaac Alexander Kerson
+11670015	한국사	2	수3 ,수4	황묘희
+12754008	Practical English C4	1	화5 ,화6	David Webster
+11393032	생명과 나눔	2	화5 ,화6	계승희
+12613002	Practical English C2	1	월5 ,월6	Angelo Apostolakis
+5707001	삶과철학 	2	화5 ,화6	김기복
+12612097	Practical English B2	1	목5 ,목6	Michael Andrew Wesorick
+12754005	Practical English C4	1	수2 ,수3	David Webster
+12408013	가천리더십 	2	수5 ,수6	송진구
+9857013	Speaking Practice B2	1	화2 ,화3	Dean Ronald Jorgensen
+9857015	Speaking Practice B2	1	수2 ,수3	Dean Ronald Jorgensen
+12752019	Practical English A4	1	목5 ,목6	Christian Vago
+9857016	Speaking Practice B2	1	수5 ,수6	Dean Ronald Jorgensen
+12753017	Practical English B4	1	화2 ,화3	Scott Wayne Kines
+12407018	사고와 표현	2	금5 ,금6	장철환
+12612036	Practical English B2	1	수5 ,수6	BENADE DANICKE
+11393034	생명과 나눔 	2	금1 ,금2	홍을표
+9857001	Speaking Practice B2	1	수7 ,수8	Jude Zacchaeus Wilson
+11388026	과학기술글쓰기	2	목1 ,목2 ,목3	최성실
+12612026	Practical English B2	1	수5 ,수6	Brandon Magnuson
+12612081	Practical English B2	1	수5 ,수6	Isaac Alexander Kerson
+12612093	Practical English B2	1	화5 ,화6	Michael Andrew Wesorick
+9858007	Speaking Practice B3	1	목2 ,목3	Nathan Dennis Mangsen
+12754001	Practical English C4	1	금7 ,금8	David Webster
+12410008	창의적 사고	2	화1 ,화2	이영희
+12613010	Practical English C2	1	금5 ,금6	Angelo Apostolakis
+12410034	창의적 사고	2	월1 ,월2	임동진
+11388010	과학기술글쓰기	2	수1 ,수2 ,수3	김진호
+9863007	Speaking Practice D2	1	화5 ,화6	Darren Yakey
+9863016	Speaking Practice D2	1	화2 ,화3	Dwaine Charles Tinling
+12753047	Practical English B4	1	월7 ,월8	Jonathan Austin Stern
+9858008	Speaking Practice B3	1	목5 ,목6	Nathan Dennis Mangsen
+13000014	창의적 사고와 말하기	2	수3 ,수4	조윤경
+11373007	아시아사상의 이해	2	화7 ,화8	안윤아
+12752016	Practical English A4	1	월7 ,월8	Christian Vago
+12612042	Practical English B2	1	월5 ,월6	Hannah Yoo
+12613006	Practical English C2	1	수5 ,수6	Angelo Apostolakis
+12612035	Practical English B2	1	수2 ,수3	BENADE DANICKE
+12754010	Practical English C4	1	월2 ,월3	Christian Vago
+12752012	Practical English A4	1	금5 ,금6	Lawrence Minton
+12611005	Practical English A2	1	월5 ,월6	박현아
+11388001	과학기술글쓰기 	2	수5 ,수6 ,수7	김진호
+12407028	사고와 표현 	2	목7 ,목8	신윤경
+9863002	Speaking Practice D2	1	금5 ,금6	Nathan Dennis Mangsen
+12213001	컴퓨터 구조와 원리 	2	화8 ,화9	황윤철
+12612106	Practical English B2	1	금5 ,금6	Rachel Lynn Stotts
+12611026	Practical English A2	1	화5 ,화6	박현아
+12753027	Practical English B4	1	목5 ,목6	Joseph E. Tetrick
+9970003	컴퓨터네트워크 및 실습 	3	화5 ,화6 ,수5 ,수6	유준
+11371014	창조와 몰입	2	수3 ,수4	전동진
+11934007	심리학과 예술	2	화7 ,화8	김소울
+12612029	Practical English B2	1	금2 ,금3	Brandon Magnuson
+12753061	Practical English B4	1	수5 ,수6	Sarah Jane Beresford
+12407046	사고와 표현	2	월3 ,월4	정우진
+12407017	사고와 표현 	2	수1 ,수2	이현승
+12753028	Practical English B4	1	목7 ,목8	Joseph E. Tetrick
+12612075	Practical English B2	1	금5 ,금6	Isaac Alexander Kerson
+9728001	Speaking Practice B1	1	월5 ,월6	송미영
+9857002	Speaking Practice B2	1	화7 ,화8	Jude Zacchaeus Wilson
+12612099	Practical English B2	1	금5 ,금6	Michael Andrew Wesorick
+11393010	생명과 나눔 	2	화3 ,화4	김정수
+12753062	Practical English B4	1	수7 ,수8	Sarah Jane Beresford
+12753038	Practical English B4	1	화5 ,화6	Dwaine Charles Tinling
+12612060	Practical English B2	1	금2 ,금3	James Edmund Pullen
+12406014	논리적 사고	2	수3 ,수4	이재환
+12614003	Practical English D2	1	월5 ,월6	Sarah Jane Beresford
+12753046	Practical English B4	1	월5 ,월6	Jonathan Austin Stern
+12614012	Practical English D2	1	금5 ,금6	Kevin John Leeder
+12614006	Practical English D2	1	수5 ,수6	Christina Meridith Bromberg
+12611022	Practical English A2	1	목5 ,목6	박현아
+11388024	과학기술글쓰기 	2	금1 ,금2 ,금3	이현승
+12753059	Practical English B4	1	월5 ,월6	Patrick T. Artz
+11670056	한국사	2	목5 ,목6	장인모
+12754011	Practical English C4	1	화2 ,화3	Christian Vago
+9968001	알고리즘 	3	화2 ,화3 ,목2 ,목3	정옥란
+9859001	Speaking Practice B4	1	월5 ,월6	David Webster
+12612108	Practical English B2	1	월7 ,월8	BENADE DANICKE
+12611013	Practical English A2	1	수7 ,수8	Portia Fay Gray
+12612023	Practical English B2	1	화2 ,화3	Brandon Magnuson
+60014001	인간심리의이해 	2	금1 ,금2 ,금3	이수연
+11371028	창조와 몰입	2	월3 ,월4	전동진
+9728009	Speaking Practice B1	1	금5 ,금6	송미영
+12612061	Practical English B2	1	금5 ,금6	James Edmund Pullen
+11934001	심리학과 예술	2	화5 ,화6	김소울
+12612006	Practical English B2	1	수5 ,수6	Amy Redding
+12612100	Practical English B2	1	금7 ,금8	Michael Andrew Wesorick
+9730002	Speaking Practice D1	1	월5 ,월6	유정윤
+9857025	Speaking Practice B2	1	화7 ,화8	Dean Ronald Jorgensen
+12612024	Practical English B2	1	화5 ,화6	Brandon Magnuson
+12752008	Practical English A4	1	수7 ,수8	Lawrence Minton
+9857019	Speaking Practice B2	1	금2 ,금3	Dean Ronald Jorgensen
+11388025	과학기술글쓰기 	2	금5 ,금6 ,금7	변정민
+12612102	Practical English B2	1	화5 ,화6	Rachel Lynn Stotts
+12753015	Practical English B4	1	월5 ,월6	Scott Wayne Kines
+12612016	Practical English B2	1	수5 ,수6	Wendy Marie Alexander
+12753035	Practical English B4	1	목7 ,목8	Dean Ronald Jorgensen
+12613009	Practical English C2	1	금2 ,금3	Angelo Apostolakis
+9728015	Speaking Practice B1	1	목7 ,목8	Amy Redding
+12612001	Practical English B2	1	월2 ,월3	Amy Redding
+11365047	창의적 고전읽기 	2	수5 ,수6	이상숙
+12611009	Practical English A2	1	화5 ,화6	Portia Fay Gray
+9968005	알고리즘 	3	수5 ,수6 ,금2 ,금3	황효석
+11670061	한국사 	2	금5 ,금6	이현숙
+12611007	Practical English A2	1	수2 ,수3	BUSA JI H
+12611003	Practical English A2	1	월7 ,월8	Portia Fay Gray
+12752006	Practical English A4	1	수2 ,수3	Lawrence Minton
+12752017	Practical English A4	1	화5 ,화6	Christian Vago
+11329007	예술과 철학	2	화7 ,화8	한상연
+12753008	Practical English B4	1	수7 ,수8	WILLIAMS JOHN LINCOLN
+9857018	Speaking Practice B2	1	목5 ,목6	Dean Ronald Jorgensen
+12753030	Practical English B4	1	수7 ,수8	Joseph E. Tetrick
+9968002	알고리즘 	3	화5 ,화6 ,목5 ,목6	정옥란
+12754014	Practical English C4	1	목7 ,목8	Christian Vago
+12753006	Practical English B4	1	수2 ,수3	WILLIAMS JOHN LINCOLN
+12612045	Practical English B2	1	수2 ,수3	Hannah Yoo
+12753053	Practical English B4	1	목7 ,목8	Jonathan Austin Stern
+12612078	Practical English B2	1	월7 ,월8	Isaac Alexander Kerson
+11393012	생명과 나눔 	2	금3 ,금4	홍을표
+12410017	창의적 사고	2	수1 ,수2	남윤정
+12752001	Practical English A4	1	월2 ,월3	Lawrence Minton
+12612109	Practical English B2	1	수7 ,수8	Rachel Lynn Stotts
+12752014	Practical English A4	1	월9 ,월10	Christian Vago
+12611018	Practical English A2	1	금7 ,금8	Portia Fay Gray
+12753054	Practical English B4	1	금5 ,금6	Jonathan Austin Stern
+9863006	Speaking Practice D2	1	화2 ,화3	Darren Yakey
+12613016	Practical English C2	1	수2 ,수3	Kevin John Leeder
+12212001	중급 웹 프로그래밍 	2	수8 ,수9 ,수10	장현주
+12406029	논리적 사고	2	화3 ,화4	이재환
+12754007	Practical English C4	1	화7 ,화8	David Webster
+11943007	인간과 배움	2	화7 ,화8	김혜정
+11388031	과학기술글쓰기 	2	금5 ,금6 ,금7	신윤경
+11494004	소프트웨어구현패턴 	3	목7 ,목8 ,금7 ,금8	황효석
+9728013	Speaking Practice B1	1	수7 ,수8	Amy Redding
+11388029	과학기술글쓰기 	2	화5 ,화6 ,화7	이현승
+12612079	Practical English B2	1	화5 ,화6	Isaac Alexander Kerson
+12753042	Practical English B4	1	수9 ,수10	Michael Andrew Wesorick
+9970001	컴퓨터네트워크 및 실습 	3	월2 ,월3 ,수2 ,수3	최재혁
+12611011	Practical English A2	1	수2 ,수3	Portia Fay Gray
+9728014	Speaking Practice B1	1	금7 ,금8	Amy Redding
+12406034	논리적 사고	2	월1 ,월2	이재환
+9858005	Speaking Practice B3	1	수2 ,수3	Nathan Dennis Mangsen
+12614005	Practical English D2	1	화5 ,화6	Sarah Jane Beresford
+9728002	Speaking Practice B1	1	월7 ,월8	송미영
+12410007	창의적 사고	2	목1 ,목2	남윤정
+9730006	Speaking Practice D1	1	수5 ,수6	유정윤
+11365007	창의적 고전읽기	2	목1 ,목2	김경화
+12752007	Practical English A4	1	수5 ,수6	Lawrence Minton
+5189007	문학의이해 	2	화7 ,화8	박혜경
+12612083	Practical English B2	1	목5 ,목6	Isaac Alexander Kerson
+12407025	사고와 표현	2	금1 ,금2	이정아
+12752018	Practical English A4	1	수5 ,수6	Christian Vago
+12753039	Practical English B4	1	화7 ,화8	Dwaine Charles Tinling
+12410029	창의적 사고	2	화3 ,화4	이영희
+9968003	알고리즘 	3	화2 ,화3 ,목2 ,목3	이상웅
+11393025	생명과 나눔	2	월3 ,월4	김유정
+12755003	Practical English D4	1	화7 ,화8	Christina Meridith Bromberg
+9858012	Speaking Practice B3	1	금2 ,금3	WILLIAMS JOHN LINCOLN
+9969002	데이터베이스 및 실습 	3	목7 ,목8 ,금3 ,금4	노웅기
+5189001	문학의이해 	2	화5 ,화6	박혜경
+11388014	과학기술글쓰기	2	월1 ,월2 ,월3	박지해
+12612052	Practical English B2	1	월5 ,월6	James Edmund Pullen
+12612095	Practical English B2	1	수5 ,수6	Michael Andrew Wesorick
+9970002	컴퓨터네트워크 및 실습 	3	월5 ,월6 ,수5 ,수6	최재혁
+5198012	인간심리의이해 	2	화9 ,화10	안재희
+12612085	Practical English B2	1	금2 ,금3	BUSA JI H
+12613013	Practical English C2	1	월2 ,월3	Kevin John Leeder
+9863015	Speaking Practice D2	1	목2 ,목3	Dwaine Charles Tinling
+9863014	Speaking Practice D2	1	목7 ,목8	Darren Yakey
+12612017	Practical English B2	1	목2 ,목3	Wendy Marie Alexander
+13000008	창의적 사고와 말하기	2	화1 ,화2	조윤경
+9728005	Speaking Practice B1	1	수5 ,수6	송미영
+11365050	창의적 고전읽기 	2	화3 ,화4	김진호
+12612096	Practical English B2	1	수7 ,수8	Michael Andrew Wesorick
+12611004	Practical English A2	1	화2 ,화3	Portia Fay Gray
+11393013	생명과 나눔	2	수7 ,수8	강수경
+9858011	Speaking Practice B3	1	월2 ,월3	WILLIAMS JOHN LINCOLN
+11933001	실험인문학	2	화5 ,화6	류수린
+11371025	창조와 몰입	2	금1 ,금2	이재환
+11366034	역사와 상상력	2	월1 ,월2	김윤정
+11670033	한국사	2	수5 ,수6	이은희
+9863017	Speaking Practice D2	1	금7 ,금8	Darren Yakey
+60013001	창조와 몰입 	2	금6 ,금7 ,금8	이재환
+9857017	Speaking Practice B2	1	목2 ,목3	Dean Ronald Jorgensen
+12612087	Practical English B2	1	화5 ,화6	BUSA JI H
+12612105	Practical English B2	1	금2 ,금3	Rachel Lynn Stotts
+12612028	Practical English B2	1	목5 ,목6	Brandon Magnuson
+12612019	Practical English B2	1	금2 ,금3	Wendy Marie Alexander
+11388032	과학기술글쓰기	2	목5 ,목6 ,목7	김규진
+9864006	Speaking Practice D3	1	수2 ,수3	Anthony Bale
+13000025	창의적 사고와 말하기	2	금1 ,금2	장철환
+12611008	Practical English A2	1	목2 ,목3	BUSA JI H
+12752005	Practical English A4	1	화7 ,화8	Lawrence Minton
+12753048	Practical English B4	1	화5 ,화6	Jonathan Austin Stern
+11388003	과학기술글쓰기	2	월1 ,월2 ,월3	이정아
+9864003	Speaking Practice D3	1	목5 ,목6	Anthony Bale
+12407034	사고와 표현	2	월1 ,월2	정우진
+10372002	로봇공학 	3	목1 ,목2 ,목3 ,목4	정용주
+12612074	Practical English B2	1	금5 ,금6	Virgilyn Arano Han
+12611019	Practical English A2	1	금7 ,금8	박현아
+12612056	Practical English B2	1	수2 ,수3	James Edmund Pullen
+11494003	소프트웨어구현패턴 	3	수3 ,수4 ,금5 ,금6	황효석
+11329013	예술과 철학	2	화3 ,화4	한상연
+12612048	Practical English B2	1	목5 ,목6	Hannah Yoo
+9859002	Speaking Practice B4	1	화2 ,화3	David Webster
+12612025	Practical English B2	1	수2 ,수3	Brandon Magnuson
+11366022	역사와 상상력	2	금3 ,금4	안윤아
+9857003	Speaking Practice B2	1	월2 ,월3	Jude Zacchaeus Wilson
+9864001	Speaking Practice D3	1	화2 ,화3	Kevin John Leeder
+12752013	Practical English A4	1	금2 ,금3	Lawrence Minton
+12611014	Practical English A2	1	목2 ,목3	Portia Fay Gray
+12753056	Practical English B4	1	화5 ,화6	Patrick T. Artz
+9969003	데이터베이스 및 실습 	3	월5 ,월6 ,화7 ,화8	최아영
+12612069	Practical English B2	1	수5 ,수6	Virgilyn Arano Han
+9970005	컴퓨터네트워크 및 실습 	3	화2 ,화3 ,목5 ,목6	이주형
+12612103	Practical English B2	1	수5 ,수6	Rachel Lynn Stotts
+9857020	Speaking Practice B2	1	금7 ,금8	Brandon Magnuson
+9730001	Speaking Practice D1	1	월2 ,월3	유정윤
+11388011	과학기술글쓰기	2	수1 ,수2 ,수3	장정수
+11393021	생명과 나눔 	2	목1 ,목2	홍을표
+12611023	Practical English A2	1	수7 ,수8	박현아
+11393033	생명과 나눔	2	수5 ,수6	김혜정
+11393046	생명과 나눔 	2	수1 ,수2	홍을표
+11670001	한국사	2	화1 ,화2	신수정
+9865001	Speaking Practice D4	1	목2 ,목3	Anthony Bale
+11366029	역사와 상상력	2	화3 ,화4	정문상
+12611025	Practical English A2	1	화7 ,화8	박현아
+9857014	Speaking Practice B2	1	화5 ,화6	Dean Ronald Jorgensen
+12614011	Practical English D2	1	금5 ,금6	Sarah Jane Beresford
+9728010	Speaking Practice B1	1	금7 ,금8	송미영
+11366017	역사와 상상력	2	수1 ,수2	조병학
+12611020	Practical English A2	1	금5 ,금6	박현아
+11366018	역사와 상상력	2	금5 ,금6	안윤아
+12752003	Practical English A4	1	화2 ,화3	Lawrence Minton
+12612071	Practical English B2	1	목5 ,목6	Virgilyn Arano Han
+9864009	Speaking Practice D3	1	수7 ,수8	Kevin John Leeder
+12612091	Practical English B2	1	월5 ,월6	Michael Andrew Wesorick
+9969004	데이터베이스 및 실습 	3	월5 ,월6 ,수5 ,수6	민연아
+12612098	Practical English B2	1	목7 ,목8	Michael Andrew Wesorick
+12611016	Practical English A2	1	목7 ,목8	Portia Fay Gray
+12755006	Practical English D4	1	목7 ,목8	Christina Meridith Bromberg
+12614010	Practical English D2	1	금2 ,금3	Sarah Jane Beresford
+11388005	과학기술글쓰기	2	목1 ,목2 ,목3	신윤경
+10094001	문학과예술 	2	화5 ,화6	이상숙
+11388030	과학기술글쓰기 	2	금5 ,금6 ,금7	이현승
+13120001	머신러닝 	3	수5 ,수6 ,수7 ,수8	김원
+12753020	Practical English B4	1	수7 ,수8	Scott Wayne Kines
+12611006	Practical English A2	1	화2 ,화3	BUSA JI H
+12612040	Practical English B2	1	금5 ,금6	BENADE DANICKE
+12410025	창의적 사고	2	금1 ,금2	허주연
+13066001	사람과 사람들 	3	화5 ,화6 ,화7	심창섭
+10372004	로봇공학 	3	목1 ,목2 ,목3 ,목4	강상우
+9857010	Speaking Practice B2	1	목5 ,목6	Jude Zacchaeus Wilson
+12613003	Practical English C2	1	화2 ,화3	Angelo Apostolakis
+9858010	Speaking Practice B3	1	화7 ,화8	Christian Vago
+9728011	Speaking Practice B1	1	월7 ,월8	Amy Redding
+9863009	Speaking Practice D2	1	수2 ,수3	Darren Yakey
+9857009	Speaking Practice B2	1	목2 ,목3	Jude Zacchaeus Wilson
+12612015	Practical English B2	1	수2 ,수3	Wendy Marie Alexander
+12611002	Practical English A2	1	월5 ,월6	Portia Fay Gray
+12613004	Practical English C2	1	화5 ,화6	Angelo Apostolakis
+12755001	Practical English D4	1	화2 ,화3	Christina Meridith Bromberg
+12753004	Practical English B4	1	화5 ,화6	WILLIAMS JOHN LINCOLN
+12612032	Practical English B2	1	월5 ,월6	BENADE DANICKE
+9863004	Speaking Practice D2	1	월5 ,월6	Darren Yakey
+12753063	Practical English B4	1	목7 ,목8	Sarah Jane Beresford
+12407048	사고와 표현 	2	금1 ,금2	민유경
+10372003	로봇공학 	3	목1 ,목2 ,목3 ,목4	민연아
+9865002	Speaking Practice D4	1	화5 ,화6	Anthony Bale
+12753060	Practical English B4	1	화7 ,화8	Sarah Jane Beresford
+12754002	Practical English C4	1	금5 ,금6	David Webster
+12753052	Practical English B4	1	목5 ,목6	Jonathan Austin Stern
+12612022	Practical English B2	1	월5 ,월6	Brandon Magnuson
+12612008	Practical English B2	1	목5 ,목6	Amy Redding
+11365034	창의적 고전읽기	2	월1 ,월2	박성지
+11393019	생명과 나눔	2	목3 ,목4	김정수
+12755007	Practical English D4	1	금2 ,금3	Christina Meridith Bromberg
+12612039	Practical English B2	1	금2 ,금3	BENADE DANICKE
+12753037	Practical English B4	1	월9 ,월10	Michael Andrew Wesorick
+12613012	Practical English C2	1	화5 ,화6	Kevin John Leeder
+9728006	Speaking Practice B1	1	수7 ,수8	송미영
+12410018	창의적 사고	2	금5 ,금6	조선희
+12753031	Practical English B4	1	화5 ,화6	Joseph E. Tetrick
+12612010	Practical English B2	1	금5 ,금6	Amy Redding
+12612020	Practical English B2	1	금5 ,금6	Wendy Marie Alexander
+11670039	한국사	2	월5 ,월6	김미경
+9858001	Speaking Practice B3	1	월2 ,월3	Nathan Dennis Mangsen
+11371007	창조와 몰입	2	목1 ,목2	허윤회

@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>brag</title>
+  <link rel="stylesheet" type="text/css" href="css.css">
+  <script>
+  var d=140;
+  var b=90;
+  var s=140;
+  var sum=d+b+s;
+  </script>
+ </head>
+ <body>
+ <h3>brag</h3>
+  <h4>LOL : Diamond Tier</h4>
+  <a href="http://www.op.gg/summoner/userName=%EC%A0%84%EC%9A%B4%EB%8C%80%EB%8C%80" target="_blank"><img src="image/lolp.png" alt="lolProfile" title="lolProfile"></a>
+  <br><br><br>
+
+  <h4>Exercise : Big 3</h4>
+  <script>
+document.write("Bench Press : <b>"+b+"</b> kg<br>");
+document.write("Deadlift : <b>"+d+"</b> kg<br>");
+document.write("Squat : <b>"+s+"</b> kg<br>");
+document.write("Sum : <b>"+sum+"</b> kg<br>");
+  </script>
+
+Deadlift:140KG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Squat:130KG<br><br><img src="image/exd.gif" alt="exd" title="exd" height="700cm">
+<img src="image/exs.gif" alt="exs" title="exs" height="700cm">
+ </body>
+</html>

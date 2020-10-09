@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>profile</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="css.css">
+	<style>
+	
+	</style>
+	<script>
+	var birthday = new Date("11/1/1993");
+	var today = new Date();
+	var years = today.getFullYear() - birthday.getFullYear();
+
+	birthday.setFullYear(today.getFullYear());
+
+	if (today < birthday)
+	{
+    years--;
+	}
+	</script>
+ </head>
+ <body>
+ 	<h3>Profile</h3>
+	
+	<p>Name: Shin Dong Wha</p>
+	
+	 <script>
+	document.write("<p>Old : " + years + "</p>");
+	</script>
+	
+	<p>Email : dhsin0468@naver.com</p>
+
+	<p>Phone : 010-5190-1255</p>
+
+  <p>Education</p>
+  <ul>
+	<li>Aju middle school</li>
+	<li>Whimoon highschool</li>
+	<li>Gachon Univ</li>
+	</ul>
+
+  <p>Hobby : Exercise, baseball<p>
+
+  <p>Experience</p>
+	<ul>
+	<li>Military Service : 공군 작사 전투사예하 제8전투비행단 제8작전지원전대 전운대대 헌병</li>
+	<li>한국자산평가 평가팀 인턴 : ETF & Bond portfolio </li>
+	</ul>
+
+  <address>Address : 서울시 송파구 올림픽로4길 42 우성아파트</address>
+  
+  <p>Certification</p>
+	<ul>
+		<li>워드프로세서 1급</li>
+		<li>ITQ 아래한글 B</li>
+		<li>ITQ 한글파워포인트 A</li>
+		<li>MOS Master</li>
+		<li>정보처리기능사</li>
+		<li>한자능력시험 2급</li>
+		<li>한국사 2급</li>
+	</ul>
+
+  
+
+<a href="https://www.facebook.com/profile.php?id=100004332304778&ref=bookmarks" class="fa fa-facebook" target="_blank"></a>
+<a href="https://www.instagram.com/dhsin0468/" class="fa fa-instagram" target="_blank"></a>
+ </body>
+</html>

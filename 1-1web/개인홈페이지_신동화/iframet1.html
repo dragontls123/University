@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="cssp.css">
+<style>
+
+</style>
+</head>
+<body>
+
+<div class="slideshow-container">
+<h3 align="center">2015usa</h3>
+<div class="mySlides fade">
+  <div class="numbertext"></div>
+  <img src="image/tour/usa/2015at.jpg" alt="2015_1" title="2015at" style="width:100%">
+  <div class="text">Home of San Fracisco Giants : AT&T Park</div>
+</div>
+<div class="mySlides fade">
+  <div class="numbertext"></div>
+  <img src="image/tour/usa/2015ggb.jpg"alt="2015_2" title="2015ggb"style="width:100%">
+  <div class="text">Golden Gate Bridge in SF</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext"></div>
+  <img src="image/tour/usa/2015grand.jpg" alt="2015_3" title="2015grand" style="width:100%">
+  <div class="text">Grand Canyon</div>
+</div>
+<div class="mySlides fade">
+  <div class="numbertext"></div>
+  <img src="image/tour/usa/2015las.jpg" alt="2015_4" title="2015las" style="width:100%">
+  <div class="text">Las Vegas night view</div>
+</div>
+<div class="mySlides fade">
+  <div class="numbertext"></div>
+  <img src="image/tour/usa/2015oco.jpg" alt="2015_5" title="2015oco"style="width:100%">
+  <div class="text">Home of Oakland Athleticss : O.co Coliseum</div>
+</div>
+<div class="mySlides fade">
+  <div class="numbertext"></div>
+  <img src="image/tour/usa/2015universal.jpg" alt="2015_6" title="2015universal"style="width:100%">
+  <div class="text">Home of New York Yankees : Yankees Stadium</div>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+  <span class="dot" onclick="currentSlide(4)"></span>
+  <span class="dot" onclick="currentSlide(5)"></span>
+  <span class="dot" onclick="currentSlide(6)"></span>
+</div>
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>
+
+</body>
+</html> 

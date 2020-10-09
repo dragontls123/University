@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>iframe</title>
+<link rel="stylesheet" type="text/css" href="css.css">
+  <style>
+
+  
+  </style>
+ </head>
+ <body>
+ <script>
+  day = new Date()
+hr = day.getHours()
+hr1 = hr - 12
+if (hr < "6") {
+document.write("<p class=\"greet\">It is "+hr+" AM. Why don't you go to bed?</p>")
+}
+else if (hr < "12") {
+document.write("<p class=\"greet\">Have a nice day!!  It is "+hr+" AM.</p>")
+}
+else if (hr < "13") {
+document.write("<p class=\"greet\">It is "+hr+" PM!! Let's do lunch!!</p>")
+}
+else if (hr < "17") {
+document.write("<p class=\"greet\">It is already "+hr1+" PM..Cheer Up</p>")
+}
+else if (hr < "22") {
+document.write("<p class=\"greet\">It is "+hr1+" PM</p>")
+}
+else if (hr > "22") {
+document.write("<p class=\"greet\">It is"+hr1+" PM. It's time to go sleep.</p>")
+}
+
+</script>
+
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br><br><br>
+  <img src="image/welcome.gif" width="60%" height="444" border="0" alt="welcome" title="welcome">
+ 
+ </body>
+</html>
